@@ -1,4 +1,4 @@
-# 💡** Three LED Control Using KiwisIoT**
+# 💡 Three LED Control Using KiwisIoT
 
 ## 📌 Project Overview
 
