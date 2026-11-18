@@ -58,3 +58,11 @@ Each LED is controlled using its respective channel.
 - Understood remote hardware control.
 - Learned to use the KiwisIoT platform.
 - Practiced Arduino programming and GPIO control.
+
+## Output
+[led.ino](led.ino)
+
+## images
+![LED](3led.jpeg)
+![Panel](widgets.png)
+
