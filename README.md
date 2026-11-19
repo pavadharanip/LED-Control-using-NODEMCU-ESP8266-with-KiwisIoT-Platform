@@ -29,6 +29,8 @@ The LEDs can be turned ON and OFF remotely through the KiwisIoT dashboard using 
 - KiwisIoT Library
 - KiwisIoT Platform
 
+  [led.ino](led.ino)
+
 ## ⚙️ Working Principle
 
 1. NodeMCU ESP8266 connects to Wi-Fi.
@@ -47,6 +49,8 @@ The LEDs can be turned ON and OFF remotely through the KiwisIoT dashboard using 
 
 ## ☁️ KiwisIoT Platform
 
+![Increment Output](./imgincr.jpeg)
+
 KiwisIoT is used to remotely control the three LEDs through an online dashboard.
 
 Each LED is controlled using its respective channel.
@@ -58,11 +62,4 @@ Each LED is controlled using its respective channel.
 - Understood remote hardware control.
 - Learned to use the KiwisIoT platform.
 - Practiced Arduino programming and GPIO control.
-
-## Output
-[led.ino](led.ino)
-
-## images
-![LED](3led.jpeg)
-![Panel](widgets.png)
 
