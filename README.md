@@ -49,7 +49,7 @@ The LEDs can be turned ON and OFF remotely through the KiwisIoT dashboard using 
 
 ## ☁️ KiwisIoT Platform
 
-![Increment Output](./imgincr.jpeg)
+![Output](./widg.png)
 
 KiwisIoT is used to remotely control the three LEDs through an online dashboard.
 
