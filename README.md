@@ -1,4 +1,4 @@
-# 💡 Three LED Control Using KiwisIoT
+# 💡 LED Control Using NODEMCU ESP8266 with KiwisIoT Platform
 
 ## 📌 Project Overview
 
